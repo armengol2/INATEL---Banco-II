@@ -1,0 +1,31 @@
+{
+    "Aulas": [
+      {
+        "assunto": "Cálculo I",
+        "professor": {
+          "nome": "Dani"
+        },
+        "alunos": [
+          { "nome": "Henrique kato" },{ "nome": "Lucas Laudares" },{ "nome": "Thiago Damas" },{ "nome": "Rodrigo" }
+        ]
+      },
+      {
+        "assunto": "Cálulo II",
+        "professor": {
+          "nome": "Estevan Lopes"
+        },
+        "alunos": [
+          { "nome": "Henrique kato" },{ "nome": "Lucas Laudares" },{ "nome": "Thiago Damas" },{ "nome": "Rodrigo" }
+        ]
+      },
+      {
+        "assunto": "Cálculo III",
+        "professor": {
+          "nome": "Luis Felipe"
+        },
+        "alunos": [
+            { "nome": "Henrique kato" },{ "nome": "Lucas Laudares" },{ "nome": "Thiago Damas" },{ "nome": "Rodrigo" }
+        ]
+      }
+    ]
+  }

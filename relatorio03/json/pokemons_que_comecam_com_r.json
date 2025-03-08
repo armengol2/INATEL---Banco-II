@@ -1,0 +1,197 @@
+[
+    {
+        "_id": {
+            "$oid": "67cba2cb9bffcd2b7cc425fa"
+        },
+        "id": 19,
+        "num": "019",
+        "name": "Rattata",
+        "img": "http://www.serebii.net/pokemongo/pokemon/019.png",
+        "type": [
+            "Normal"
+        ],
+        "height": "0.30 m",
+        "weight": "3.5 kg",
+        "candy": "Rattata Candy",
+        "candy_count": 25,
+        "egg": "2 km",
+        "spawn_chance": 13.05,
+        "avg_spawns": 1.305,
+        "spawn_time": "01:55",
+        "multipliers": [
+            2.55,
+            2.73
+        ],
+        "weaknesses": [
+            "Fighting"
+        ],
+        "next_evolution": [
+            {
+                "num": "020",
+                "name": "Raticate"
+            }
+        ]
+    },
+    {
+        "_id": {
+            "$oid": "67cba2cb9bffcd2b7cc425fb"
+        },
+        "id": 20,
+        "num": "020",
+        "name": "Raticate",
+        "img": "http://www.serebii.net/pokemongo/pokemon/020.png",
+        "type": [
+            "Normal"
+        ],
+        "height": "0.71 m",
+        "weight": "18.5 kg",
+        "candy": "Rattata Candy",
+        "egg": "Not in Eggs",
+        "spawn_chance": 0.41,
+        "avg_spawns": 41,
+        "spawn_time": "01:56",
+        "multipliers": null,
+        "weaknesses": [
+            "Fighting"
+        ],
+        "prev_evolution": [
+            {
+                "num": "019",
+                "name": "Rattata"
+            }
+        ]
+    },
+    {
+        "_id": {
+            "$oid": "67cba2cb9bffcd2b7cc42601"
+        },
+        "id": 26,
+        "num": "026",
+        "name": "Raichu",
+        "img": "http://www.serebii.net/pokemongo/pokemon/026.png",
+        "type": [
+            "Electric"
+        ],
+        "height": "0.79 m",
+        "weight": "30.0 kg",
+        "candy": "Pikachu Candy",
+        "egg": "Not in Eggs",
+        "spawn_chance": 0.0076,
+        "avg_spawns": 0.76,
+        "spawn_time": "23:58",
+        "multipliers": null,
+        "weaknesses": [
+            "Ground"
+        ],
+        "prev_evolution": [
+            {
+                "num": "025",
+                "name": "Pikachu"
+            }
+        ]
+    },
+    {
+        "_id": {
+            "$oid": "67cba2cb9bffcd2b7cc42635"
+        },
+        "id": 78,
+        "num": "078",
+        "name": "Rapidash",
+        "img": "http://www.serebii.net/pokemongo/pokemon/078.png",
+        "type": [
+            "Fire"
+        ],
+        "height": "1.70 m",
+        "weight": "95.0 kg",
+        "candy": "Ponyta Candy",
+        "egg": "Not in Eggs",
+        "spawn_chance": 0.011,
+        "avg_spawns": 1.1,
+        "spawn_time": "04:00",
+        "multipliers": null,
+        "weaknesses": [
+            "Water",
+            "Ground",
+            "Rock"
+        ],
+        "prev_evolution": [
+            {
+                "num": "077",
+                "name": "Ponyta"
+            }
+        ]
+    },
+    {
+        "_id": {
+            "$oid": "67cba2cb9bffcd2b7cc42656"
+        },
+        "id": 111,
+        "num": "111",
+        "name": "Rhyhorn",
+        "img": "http://www.serebii.net/pokemongo/pokemon/111.png",
+        "type": [
+            "Ground",
+            "Rock"
+        ],
+        "height": "0.99 m",
+        "weight": "115.0 kg",
+        "candy": "Rhyhorn Candy",
+        "candy_count": 50,
+        "egg": "5 km",
+        "spawn_chance": 0.63,
+        "avg_spawns": 63,
+        "spawn_time": "03:21",
+        "multipliers": [
+            1.91
+        ],
+        "weaknesses": [
+            "Water",
+            "Grass",
+            "Ice",
+            "Fighting",
+            "Ground",
+            "Steel"
+        ],
+        "next_evolution": [
+            {
+                "num": "112",
+                "name": "Rhydon"
+            }
+        ]
+    },
+    {
+        "_id": {
+            "$oid": "67cba2cb9bffcd2b7cc42657"
+        },
+        "id": 112,
+        "num": "112",
+        "name": "Rhydon",
+        "img": "http://www.serebii.net/pokemongo/pokemon/112.png",
+        "type": [
+            "Ground",
+            "Rock"
+        ],
+        "height": "1.91 m",
+        "weight": "120.0 kg",
+        "candy": "Rhyhorn Candy",
+        "egg": "Not in Eggs",
+        "spawn_chance": 0.022,
+        "avg_spawns": 2.2,
+        "spawn_time": "05:50",
+        "multipliers": null,
+        "weaknesses": [
+            "Water",
+            "Grass",
+            "Ice",
+            "Fighting",
+            "Ground",
+            "Steel"
+        ],
+        "prev_evolution": [
+            {
+                "num": "111",
+                "name": "Rhyhorn"
+            }
+        ]
+    }
+]

@@ -16,7 +16,7 @@ writeAJson(pokemons, "pokemons_que_nao_vem_em_ovos")
 
 #Querry 3 - Pokemons com menos de 0.001% de chance de spawn
 pokemons = list(db.collection.find({"spawn_chance": {"$lt": 0.001}}))
-writeAJson(pokemons, "pokemons_com_spawn_menor_que_0.001_porcento")
+writeAJson(pokemons, "pokemons_com_spawn_menor_que_0.001%")
 
 #Querry 4 - Pokemons que começam com a letra R
 pokemons = list(db.collection.find({"name": {"$regex": "^R", "$options": "i"}}))

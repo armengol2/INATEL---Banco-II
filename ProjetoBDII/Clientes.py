@@ -7,7 +7,7 @@ from ContatoCliente import ContatoCliente
 
 # =================================== CONFIGURAÇÃO DE EMAIL ========================================
 EMAIL_ORIGEM = 'rodrigoarmengol2@gmail.com'
-SENHA = 'gifrfyfqwjzkjehi'
+SENHA = 'xxxxxxxxxxxxxxxxxxx'
 EMAIL_DESTINO = 'rodrigoarmengol2@gmail.com'
 
 def enviar_email(conteudo, destino):
